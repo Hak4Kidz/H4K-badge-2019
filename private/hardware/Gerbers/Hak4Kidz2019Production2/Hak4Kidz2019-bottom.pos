@@ -1,0 +1,33 @@
+### Module positions - created on 2/14/2019 3:28:13 PM ###
+### Printed by Pcbnew version kicad (5.0.2)-1
+## Unit = inches, Angle = deg.
+## Side : bottom
+# Ref     Val             Package                              PosX       PosY       Rot  Side
+C1        0.1uF           C_0603                            -5.8520    -4.8260   90.0000  bottom
+C2        10uF            C_0603                            -5.9040    -4.8260   90.0000  bottom
+C3        0.1uF           C_0603                            -5.6660    -6.1255  270.0000  bottom
+C4        1uF             C_0603                            -2.8160    -3.9200  180.0000  bottom
+C5        0.1uF           C_0603                            -2.8160    -3.8700  180.0000  bottom
+C6        0.1uF           C_0603                            -5.6660    -6.2355   90.0000  bottom
+C7        0.1uF           C_0603                            -5.6840    -6.6570  180.0000  bottom
+C8        4.7uF           C_0603                            -5.6835    -6.7080  180.0000  bottom
+C9        47pF            C_0603                            -5.8600    -6.7970    0.0000  bottom
+C10       47pF            C_0603                            -5.7445    -6.7970  180.0000  bottom
+C11       2.2uF           C_0603                            -4.3155    -4.7470    0.0000  bottom
+C12       2.2uF           C_0603                            -4.3105    -4.3880    0.0000  bottom
+R1        10k             R_0603                            -4.0180    -4.6255   90.0000  bottom
+R2        10k             R_0603                            -5.5910    -6.0950    0.0000  bottom
+R3        100k            R_0603                            -2.9060    -3.8950  270.0000  bottom
+R4        4.7k            R_0603                            -2.6630    -3.8950   90.0000  bottom
+R5        4.7k            R_0603                            -2.6000    -3.8950   90.0000  bottom
+R6        3.3k            R_0603                            -2.7260    -3.8950  270.0000  bottom
+R7        4.7k            R_0603                            -5.8780    -5.0530  180.0000  bottom
+R8        4.7k            R_0603                            -5.8780    -5.1110  180.0000  bottom
+R9        27              R_0603                            -5.7750    -6.6840   90.0000  bottom
+R10       27              R_0603                            -5.8310    -6.6845  270.0000  bottom
+U1        ESP32-WROOM-32  ESP32-WROOM-32                    -5.4055    -5.1260  180.0000  bottom
+U2        FT231XS         QSOP-20_3.9x8.7mm_Pitch0.635mm    -5.7120    -6.4620  270.0000  bottom
+U3        IS31FL3236      TQFP-48_7x7mm_Pitch0.5mm          -2.8031    -3.5967    0.0000  bottom
+U5        UMH3NFHA        SOT363                            -5.5810    -6.2050  180.0000  bottom
+U6        LF33_TO252      TO-252-2                          -4.3990    -4.5690    0.0000  bottom
+## End
