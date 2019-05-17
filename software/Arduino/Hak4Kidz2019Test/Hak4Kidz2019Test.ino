@@ -1,3 +1,11 @@
+/* 
+ *  Hak4Kidz 2019 badge test sketch.
+ *  
+ *  Basic sketch created to test the LEDs, LCD, and read Touch Pads for testing purposes only.
+ *  
+ *  Creator: Michael Whitely
+ *  Handle: @compukidmike
+ */
 #include <Wire.h>
 #include "SPI.h"
 #include "Adafruit_GFX.h"
@@ -96,5 +104,3 @@ void loop() {
   delay(100);
 
 }
-
-
